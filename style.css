@@ -7,6 +7,11 @@
 .first-section{
     background-color: #1F2937;
 }
+footer{
+    background-color: #1F2937;
+    color: #fff;
+    text-align: center;
+}
 .first-sect-first-item > h2{
     font: 48px;
     font-style: extra-bold;
@@ -18,4 +23,7 @@
 
 .second-section{
     background-color: #fff;
+}
+.third-section{
+    background-color: #E5E7EB
 }

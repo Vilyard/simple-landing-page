@@ -2,3 +2,16 @@
     height: 100vh;
     width: 100vw;
 }
+
+
+.first-section{
+    background-color: #1F2937;
+}
+.first-sect-first-item > h2{
+    font: 48px;
+    font-style: extra-bold;
+    color: #F9FAF8;
+}
+.first-sect-first-item > button {
+    background-color: #3882F6;
+}

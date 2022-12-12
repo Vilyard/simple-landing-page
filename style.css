@@ -53,7 +53,7 @@ nav {
 
 .second-section {
   background-color: #fff;
-  padding: 20px;
+  padding: 50px;
 }
 .second-sect-first-item {
   color: black;
@@ -77,7 +77,19 @@ nav {
 }
 .third-section {
   background-color: #e5e7eb;
-  display: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 50px;
+}
+#quote {
+  font: 36px;
+  font-style: italic;
+  color: #1f2937;
+}
+#ref {
+  margin-top: 50px;
+  white-space: nowrap;
+  font-style: extra-bold;
 }
 .fourth-section {
   display: none;

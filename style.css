@@ -45,12 +45,6 @@ nav {
   height: 500px;
 }
 
-footer {
-  background-color: #1f2937;
-  color: #fff;
-  text-align: center;
-  display: none;
-}
 .first-sect-first-item > h2 {
   font: 48px;
   font-style: extra-bold;
@@ -59,12 +53,39 @@ footer {
 
 .second-section {
   background-color: #fff;
-  display: none;
+  padding: 20px;
+}
+.second-sect-first-item {
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
+.second-sect-second-item {
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.second-sect-second-item > div {
+  text-align: center;
+}
+.image-second {
+  width: 100px;
+  border: 2px solid #3882f6;
+  border-radius: 12px;
 }
 .third-section {
   background-color: #e5e7eb;
   display: none;
 }
 .fourth-section {
+  display: none;
+}
+
+footer {
+  background-color: #1f2937;
+  color: #fff;
+  text-align: center;
   display: none;
 }

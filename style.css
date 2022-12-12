@@ -92,12 +92,32 @@ nav {
   font-style: extra-bold;
 }
 .fourth-section {
-  display: none;
+  padding: 80px;
+}
+
+.fourth-sect-container {
+  color: #fff;
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-evenly;
+}
+.fourth-sect-right {
+  justify-self: center;
+  align-self: center;
+}
+
+.fourth-sect-right > button {
+  color: #fff;
+  background-color: #3882f6;
+  border: 2px solid white;
+  padding: 8px;
+  width: 100px;
+  border-radius: 12px;
 }
 
 footer {
   background-color: #1f2937;
   color: #fff;
   text-align: center;
-  display: none;
+  padding: 50px;
 }
